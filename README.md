@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ebrehault/micro-frontend-with-nx)
+
 # Angular micro-frontends with Nx
 
 Implement micro frontends in Angular using Nx
